@@ -27,6 +27,9 @@ body{
     align-items: center;
     padding: 5%;
     gap: 5%;
+    -webkit-box-shadow: -2px 0px 59px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 0px 59px 3px rgba(0,0,0,0.75);
+box-shadow: -2px 0px 59px 3px rgba(0,0,0,0.75);
 }
 
 .image{
