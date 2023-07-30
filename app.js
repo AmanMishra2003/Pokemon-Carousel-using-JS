@@ -77,6 +77,6 @@ let change = function(a){
     values.img.src = obj[a].image
     values.nm.innerText = obj[a].name
     values.titl.innerText = obj[a].title
-    values.desc.innerHtml = obj[a].description
+    values.desc.innerText = obj[a].description
 }
 
